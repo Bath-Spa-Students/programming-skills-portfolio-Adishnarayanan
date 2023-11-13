@@ -1,9 +1,9 @@
 # Create a dictionary to store information about a person i know
 person_info = {
-    "first_name": "Abhishek",
-    "last_name": "Prabhakar",
+    "first_name": "Readdy",
+    "last_name": "arjun",
     "age": 19,
-    "city": "Kasargod"
+    "city": "Trivandrum"
 }
 
 # Print each piece of information stored in the dictionary
